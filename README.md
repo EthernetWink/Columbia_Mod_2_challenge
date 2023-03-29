@@ -15,3 +15,7 @@ Then we get a list of loans the quailfy for, or we don't depending on thier cred
 
 If we do get a list we ask the user if they want to store it in a csv or if we don't quailify for a loan we just exit.
 If the user opts to not have the results output to a csv the program exits.
+
+# TXT file
+
+a history of terminal ocnversation
