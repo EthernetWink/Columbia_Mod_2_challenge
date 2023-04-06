@@ -23,3 +23,4 @@ a history of terminal ocnversation
 # Daily rate sheet
 
 That CSV file was the one used in making and running this repo
+It is also in the data folder
