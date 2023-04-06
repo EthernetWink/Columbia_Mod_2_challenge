@@ -19,3 +19,7 @@ If the user opts to not have the results output to a csv the program exits.
 # TXT file
 
 a history of terminal ocnversation
+
+# Daily rate sheet
+
+That CSV file was the one used in making and running this repo
